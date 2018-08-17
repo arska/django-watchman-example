@@ -1,0 +1,1 @@
+# Minimal Python Djamngo app to demo watchman healthchecks
